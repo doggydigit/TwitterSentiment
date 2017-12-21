@@ -20,4 +20,8 @@ Running the embedding and model fitting requires:
 - [Keras](https://github.com/fchollet/keras) (Newest version on 2017-12-21)
 - [Gensim](https://pypi.python.org/pypi/gensim) v. 3.2.0
 
+# Running
+
+To run the pipeline, the user **the user needs to get all the files at https://drive.switch.ch/index.php/s/B3GW73fRf8Ou3Js and add them in the main code directory.**
+
 The training time for the full pipeline is about **5 hours** without utilizing a GPU.
